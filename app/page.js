@@ -161,10 +161,10 @@ export default function Home() {
             MIT: Your AI Assistant
           </Typography>
           <Typography variant="body1" paragraph>
-            Meet Your Personal AI Assistant: MIT! I'm here to assist you with any concerns you might have. I'll do my best to provide accurate and helpful responses.
+            Meet Your Personal AI Assistant: MIT! I&apos;m here to assist you with any concerns you might have. I&apos;ll do my best to provide accurate and helpful responses.
           </Typography>
           <Typography variant="body1" paragraph>
-            If you encounter any issues or need further assistance, please let me know, and I'll be glad to help. Enjoy your chat experience!
+            If you encounter any issues or need further assistance, please let me know, and I&apos;ll be glad to help. Enjoy your chat experience!
           </Typography>
         </Box>
       </Box>
