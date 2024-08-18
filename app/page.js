@@ -74,7 +74,7 @@ export default function Home() {
       console.error('Error:', error)
       setMessages((messages) => [
         ...messages,
-        { role: 'assistant', content: "I'm just a bunch of code, so I don't have feelings, but I'm here and ready to help! How about you? How are you doing today?" },
+        { role: 'assistant', content: "❌ I'm sorry, but I encountered an error. Please try again later." },
       ])
     } finally {
       setIsLoading(false)
